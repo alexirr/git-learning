@@ -1,2 +1,2 @@
-# git and github course
+# Itis KFU student
 course
